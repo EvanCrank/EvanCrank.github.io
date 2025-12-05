@@ -23,3 +23,13 @@ border: 2px solid rgb(114, 100, 123); /* choose a color */
 display: block;
 margin: auto;
 }
+
+.left-img {
+    float: left;
+    width: 140px;        /* adjust */
+    height: 140px;       /* adjust */
+    object-fit: cover;
+    border-radius: 10px; 
+    margin-right: 16px;  /* space between image and text */
+  }
+
